@@ -1,0 +1,1 @@
+rename any of the typescript files to app.ts and compile it to app.js file
